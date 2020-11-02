@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Thang Máy Gia Đình",
+    "image": "https://thegioithangmay.com.vn/wp-content/uploads/2019/09/thang-may-gia-dinh-450kg.jpg"
+  },
+  {
+    "name": "Thang Máy Bệnh Viện",
+    "image": "https://thangmaybaoson.com/wp-content/uploads/2017/07/thang-may-benh-vien-1-1-438x330.jpg"
+  }
+]

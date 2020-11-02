@@ -1,0 +1,56 @@
+[
+  {
+    "order": 1,
+    "url": "/assets/products.json",
+    "id": "thangmaychonhacaitao",
+    "name": "Thang máy cho nhà cải tạo",
+    "price": 0,
+    "image": "assets/photo/thangmaychonhacaitao1.jpg",
+    "description": ""
+  },
+  {
+    "order": 2,
+    "url": "/assets/products.json",
+    "id": "thangmaydungdien1pha",
+    "name": "Thang máy gia đình dùng điện 1 pha",
+    "price": 0,
+    "image": "assets/photo/thangmay1pha2.jpg",
+    "description": ""
+  },
+  {
+    "order": 3,
+    "url": "/assets/products.json",
+    "id": "thangmaygiadinh",
+    "name": "Thang máy gia đình",
+    "price": 0,
+    "image": "assets/photo/thangmaygiadinh1.jpg",
+    "description": ""
+  },
+  {
+    "order": 4,
+    "url": "/assets/products.json",
+    "id": "thangmayhomelift",
+    "name": "Thang máy Homelift",
+    "price": 0,
+    "image": "assets/photo/thangmayhomelift2.jpg",
+    "description": ""
+  },
+  {
+    "order": 5,
+    "url": "/assets/products.json",
+    "id": "thangmaykhongphongmay",
+    "name": "Thang máy không phòng máy",
+    "price": 0,
+    "image": "assets/photo/thangmaykhongphongmay1.jpg",
+    "description": ""
+  },
+  {
+    "order": 6,
+    "url": "/assets/products.json",
+    "id": "thangmayliendoanh",
+    "name": "Thang máy liên doanh",
+    "price": 0,
+    "image": "assets/photo/thangmayliendoanh1-copy.jpg",
+    "description": ""
+  }
+]
